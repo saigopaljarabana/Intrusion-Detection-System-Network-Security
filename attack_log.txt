@@ -1,0 +1,115 @@
+[191190016, 4057410357, 255]
+Anomaly detected in simulated attack: [191190016, 4057410357, 255]
+No Anomaly detected in live: [2398769849, 2253948130, 17]
+
+[1427312904, 376776334, 255]
+Anomaly detected in simulated attack: [1427312904, 376776334, 255]
+No Anomaly detected in live: [2253948130, 2398769849, 17]
+
+[2344007884, 3211684845, 255]
+Anomaly detected in simulated attack: [2344007884, 3211684845, 255]
+No Anomaly detected in live: [2253948130, 2398769849, 17]
+
+[3712494248, 602386584, 255]
+Anomaly detected in simulated attack: [3712494248, 602386584, 255]
+No Anomaly detected in live: [2253948130, 2398769849, 17]
+
+[1501180552, 985088889, 255]
+Anomaly detected in simulated attack: [1501180552, 985088889, 255]
+No Anomaly detected in live: [2398769849, 2253948130, 17]
+
+[1035331326, 3800910089, 255]
+Anomaly detected in simulated attack: [1035331326, 3800910089, 255]
+No Anomaly detected in live: [2398769849, 2253948130, 17]
+
+[993752422, 2533136992, 255]
+Anomaly detected in simulated attack: [993752422, 2533136992, 255]
+No Anomaly detected in live: [2253948130, 2398769849, 17]
+
+[585133653, 128205297, 255]
+Anomaly detected in simulated attack: [585133653, 128205297, 255]
+No Anomaly detected in live: [2253948130, 2398769849, 17]
+
+[3775780702, 110810652, 255]
+Anomaly detected in simulated attack: [3775780702, 110810652, 255]
+No Anomaly detected in live: [2398769849, 2253948130, 17]
+
+[1936448088, 2699620598, 255]
+Anomaly detected in simulated attack: [1936448088, 2699620598, 255]
+No Anomaly detected in live: [2253948130, 2398769849, 17]
+
+[3066525059, 4005856684, 255]
+Anomaly detected in simulated attack: [3066525059, 4005856684, 255]
+No Anomaly detected in live: [3472297246, 2253948130, 17]
+
+[56723233, 1856879701, 255]
+Anomaly detected in simulated attack: [56723233, 1856879701, 255]
+No Anomaly detected in live: [2253948130, 3472297246, 17]
+
+[3826782381, 1411718554, 255]
+No Anomaly detected in live: [2253948130, 3472297246, 17]
+
+[2518942545, 1187934895, 255]
+Anomaly detected in simulated attack: [2518942545, 1187934895, 255]
+No Anomaly detected in live: [2253948130, 3472297246, 17]
+
+[3339928073, 1781515041, 255]
+Anomaly detected in simulated attack: [3339928073, 1781515041, 255]
+No Anomaly detected in live: [3472297246, 2253948130, 17]
+
+[2773661714, 693243265, 255]
+Anomaly detected in simulated attack: [2773661714, 693243265, 255]
+No Anomaly detected in live: [3472297246, 2253948130, 17]
+
+[504912844, 124062960, 255]
+Anomaly detected in simulated attack: [504912844, 124062960, 255]
+No Anomaly detected in live: [2253948130, 3472297246, 17]
+
+[2757460551, 1116703045, 255]
+Anomaly detected in simulated attack: [2757460551, 1116703045, 255]
+No Anomaly detected in live: [2253948130, 3472297246, 17]
+
+[2630484870, 800672385, 255]
+Anomaly detected in simulated attack: [2630484870, 800672385, 255]
+No Anomaly detected in live: [2253948130, 3472297246, 17]
+
+[3684460242, 834409729, 255]
+Anomaly detected: [2253949118, 4294967295, 17]
+
+[1374216799, 2809496610, 255]
+Anomaly detected in simulated attack: [1374216799, 2809496610, 255]
+No Anomaly detected in live: [2253948130, 3472297246, 17]
+
+[3851906921, 1935019082, 255]
+No Anomaly detected in live: [2253948130, 3472297246, 17]
+
+[4017378336, 2551048517, 255]
+Anomaly detected in simulated attack: [4017378336, 2551048517, 255]
+No Anomaly detected in live: [2253948130, 3472297246, 17]
+
+[1436953746, 3902216086, 255]
+Anomaly detected in simulated attack: [1436953746, 3902216086, 255]
+No Anomaly detected in live: [2253948130, 3472297246, 17]
+
+[373266463, 489014593, 255]
+Anomaly detected in simulated attack: [373266463, 489014593, 255]
+No Anomaly detected in live: [2253948130, 3472297246, 17]
+
+[3595632447, 1860657562, 255]
+No Anomaly detected in live: [2253948130, 3472297246, 17]
+
+[4068169209, 1297196889, 255]
+No Anomaly detected in live: [2253948130, 3472297246, 17]
+
+[4083305909, 3095701923, 255]
+Anomaly detected in simulated attack: [4083305909, 3095701923, 255]
+No Anomaly detected in live: [2253948130, 3472297246, 17]
+
+[1615694679, 4153062104, 255]
+Anomaly detected in simulated attack: [1615694679, 4153062104, 255]
+No Anomaly detected in live: [2253948130, 3472297246, 17]
+
+[2959562257, 1287598525, 255]
+Anomaly detected in simulated attack: [2959562257, 1287598525, 255]
+No Anomaly detected in live: [2253948130, 3472297246, 17]
+
